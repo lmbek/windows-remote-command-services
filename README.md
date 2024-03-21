@@ -2,7 +2,7 @@
 
 This project is a remote command execution system written in Go. It is designed for controlling multiple PCs simultaneously by sending commands from a master client, which forwards the commands to the server, and the server dispatches the commands to multiple clients. The responses from each client are sent back to the master client, giving you real-time feedback and control over multiple systems.
 
-> ⚠️ **Please Note!** This repository contains code that I made for fun. Keep in mind that it is possible to execute Windows cmd commands from a master client to many clients through a server (if the IP addresses are modified in the code). Remember, this project is for experimentation and should be utilized for ethical and legal purposes. Misuse of this tool is strictly not endorsed by the author.
+> ⚠️ **Please Note!** This repository contains code that I made for fun. Keep in mind that this project contains code that can execute windows cmd commands from a master client to many clients through a server (if the IP addresses are modified in the code). Remember, this project is for experimentation and should be utilized for ethical and legal purposes. Misuse of this tool is strictly not endorsed by the author.
 
 ## Installation and Running the Services
 
