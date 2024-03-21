@@ -7,7 +7,7 @@ This project is a remote command execution system written in Go. It is designed 
 ## Installation and Running the Services
 
 ### Prerequisites
-1. Install Go - You need to have Go installed on your system. You can download and install Go from the [official Go website](https://golang.org/dl/). Ensure that you have version `1.22.1` or higher.
+1. Install Go - You need to have Go installed on your system. You can download and install Go from the [official Go website](https://go.dev/dl/). Ensure that you have version `1.22.1` or higher.
 
 ### Running the Application
 
